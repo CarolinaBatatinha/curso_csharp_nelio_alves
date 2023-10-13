@@ -1,0 +1,14 @@
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\bin\Debug\net7.0\ex1.1.exe
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\bin\Debug\net7.0\ex1.1.deps.json
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\bin\Debug\net7.0\ex1.1.runtimeconfig.json
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\bin\Debug\net7.0\ex1.1.dll
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\bin\Debug\net7.0\ex1.1.pdb
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ex1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ex1.1.AssemblyInfoInputs.cache
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ex1.1.AssemblyInfo.cs
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ex1.1.csproj.CoreCompileInputs.cache
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ex1.1.dll
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\refint\ex1.1.dll
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ex1.1.pdb
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ex1.1.genruntimeconfig.cache
+D:\Dev's life\C#\prova_nivelamento_Nelio\ex1.1\obj\Debug\net7.0\ref\ex1.1.dll

@@ -1,0 +1,14 @@
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\Projeto00.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\Projeto00.AssemblyInfoInputs.cache
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\Projeto00.AssemblyInfo.cs
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\Projeto00.csproj.CoreCompileInputs.cache
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\bin\Debug\net6.0\Projeto00.exe
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\bin\Debug\net6.0\Projeto00.deps.json
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\bin\Debug\net6.0\Projeto00.runtimeconfig.json
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\bin\Debug\net6.0\Projeto00.dll
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\bin\Debug\net6.0\Projeto00.pdb
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\Projeto00.dll
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\refint\Projeto00.dll
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\Projeto00.pdb
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\Projeto00.genruntimeconfig.cache
+D:\Dev's life\C#\projetos\Projeto00\Projeto00\obj\Debug\net6.0\ref\Projeto00.dll

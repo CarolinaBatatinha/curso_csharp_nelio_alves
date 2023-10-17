@@ -6,7 +6,7 @@ namespace Programa00
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oi coiso");
+            
         }
     }
 }

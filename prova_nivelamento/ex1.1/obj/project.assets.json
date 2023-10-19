@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\batat\\.nuget\\packages\\": {}
+    "/home/carolina/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev's life\\C#\\prova_nivelamento_Nelio\\ex1.1\\ex1.1.csproj",
+      "projectUniqueName": "/media/carolina/Data/Dev's life/C#/CSharp POO Nelio/curso_csharp_nelio_alves/prova_nivelamento/ex1.1/ex1.1.csproj",
       "projectName": "ex1.1",
-      "projectPath": "D:\\Dev's life\\C#\\prova_nivelamento_Nelio\\ex1.1\\ex1.1.csproj",
-      "packagesPath": "C:\\Users\\batat\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev's life\\C#\\prova_nivelamento_Nelio\\ex1.1\\obj\\",
+      "projectPath": "/media/carolina/Data/Dev's life/C#/CSharp POO Nelio/curso_csharp_nelio_alves/prova_nivelamento/ex1.1/ex1.1.csproj",
+      "packagesPath": "/home/carolina/.nuget/packages/",
+      "outputPath": "/media/carolina/Data/Dev's life/C#/CSharp POO Nelio/curso_csharp_nelio_alves/prova_nivelamento/ex1.1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\batat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/carolina/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,3 +12,4 @@ D:\Dev's life\C#\CSharp POO Nelio\curso_csharp_nelio_alves\exercicios_parte1\Ex0
 D:\Dev's life\C#\CSharp POO Nelio\curso_csharp_nelio_alves\exercicios_parte1\Ex02\obj\Debug\net7.0\Ex02.pdb
 D:\Dev's life\C#\CSharp POO Nelio\curso_csharp_nelio_alves\exercicios_parte1\Ex02\obj\Debug\net7.0\Ex02.genruntimeconfig.cache
 D:\Dev's life\C#\CSharp POO Nelio\curso_csharp_nelio_alves\exercicios_parte1\Ex02\obj\Debug\net7.0\ref\Ex02.dll
+D:\Dev's life\C#\CSharp POO Nelio\curso_csharp_nelio_alves\exercicios_parte1\Ex02\obj\Debug\net7.0\Ex02.sourcelink.json
